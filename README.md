@@ -206,7 +206,7 @@ The origins of this temple, are buried in antiquity. This temple has been mentio
 ![image](https://github.com/prithviraj5703/places-around-me/assets/121418418/f3ac1f69-d962-4192-83fb-415c8b6aad6d)
 ![image](https://github.com/prithviraj5703/places-around-me/assets/121418418/9ae2df4d-e21b-49b6-92b8-3e6aed8d67d7)
 ![image](https://github.com/prithviraj5703/places-around-me/assets/121418418/48c880e9-ddba-450e-a609-6f4be68f7e97)
-![image](https://github.com/prithviraj5703/places-around-me/assets/121418418/632ce198-ce5d-4b9f-8d83-45c4f433b9ff)
+
 
 
 ## Result:
